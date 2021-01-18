@@ -1,0 +1,15 @@
+h1 {
+    color:blue;
+}
+#searchBar{
+    display: block;
+    margin-bottom: 10px;
+}
+
+#searchForm {
+    display: inline-block;
+}
+
+#clearAllButton {
+    margin-left:20px;
+}
